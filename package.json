@@ -4,7 +4,7 @@
   "description": "an application using firebase to store messages from users",
   "main": "index.js",
   "scripts": {
-    "npm start": "parcel index.html"
+    "start": "parcel index.html"
   },
   "author": "Thomas Nelson",
   "license": "ISC",
